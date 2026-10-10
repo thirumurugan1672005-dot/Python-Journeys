@@ -15,3 +15,8 @@
 14. Lists : Basic Operations
 15. List Methods
 16. Dictionary : Basic Operations
+17. Dictionary methods
+18. Define , Nesting , Unpacking in Dictionaries
+19. Dictionary Define and ComprehensionsNesting , in , SparseTables using Dictionary
+20. Dictionary views , Sorting Dictionary
+21. Tuples
