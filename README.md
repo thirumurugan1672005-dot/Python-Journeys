@@ -20,3 +20,5 @@
 19. Dictionary Define and ComprehensionsNesting , in , SparseTables using Dictionary
 20. Dictionary views , Sorting Dictionary
 21. Tuples
+22. Files : basic modes , methods
+23. Storing in files 
