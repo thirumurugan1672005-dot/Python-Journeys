@@ -21,4 +21,6 @@
 20. Dictionary views , Sorting Dictionary
 21. Tuples
 22. Files : basic modes , methods
-23. Storing in files 
+23. Storing in files
+24. Variables : Types
+25. Objects , Types 
