@@ -23,4 +23,5 @@
 22. Files : basic modes , methods
 23. Storing in files
 24. Variables : Types
-25. Objects , Types 
+25. Objects , Types
+26. How Variable created , shared references and side effects
